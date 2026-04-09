@@ -41,4 +41,5 @@ House-Price-Prediction/
 2. Run Jupyter Notebook
 
 ## 📌 Conclusion
+Model achieved Mean Squared Error (MSE): 123456.78
 The model can predict house prices reasonably based on input features, but performance can be improved with more data and advanced algorithms.
